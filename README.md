@@ -2,7 +2,7 @@
 
 A vanilla JavaScript skill-sharing platform built to practice DOM manipulation and event handling.
 
-**Live Demo:** https://oeprxc.github.io/skill-sharing/
+**Live Demo:** https://oeprecious.github.io/skill-sharing/
 
 ## About
 Skill-sharing is a simple platform where users can submit talks, view others' talks, and leave comments. Built with no frameworks. Just HTML, CSS and Vanilla JS.
@@ -31,4 +31,4 @@ Skill-sharing is a simple platform where users can submit talks, view others' ta
 - Managing state with plain JS
 
 ## Author
-oeprxc (PRECIOUS)
+Precious Emmanuel 
