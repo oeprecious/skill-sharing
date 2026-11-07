@@ -21,7 +21,7 @@ Skill-sharing is a simple platform where users can submit talks, view others' ta
 - Vanilla JavaScript (ES6+)
 
 ## How to Run
-1. Clone: `git clone https://github.com/oeprxc/skill-sharing.git`
+1. Clone: `git clone https://github.com/oeprecious/skill-sharing.git`
 2. Open `index.html` in your browser
 
 ## What I Learned
